@@ -14,6 +14,6 @@ Example inputs & outputs:
   
 Your Tasks:
 + Apply a TDD developing method, try to write tests for the class.
-+ Make sure your UTs fail without empty implementation, and your UTs cover green cases and edge cases for the coding task
++ Make sure your UTs fail with empty implementation, and your UTs cover green cases and edge cases for the coding task
 + Complete the implementation for method: `public static List<List<Integer>> levelTranversal(TreeNode root)`.
 + Rerun your tests to make sure they all will pass.
